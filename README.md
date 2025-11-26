@@ -10,11 +10,11 @@
 
 •	Efficiently store and organize data for products, suppliers, customers, orders, inventory and sales.
 
-•	Maintain data integrity and consistency — avoid duplication, ensure valid relationships (e.g. correct stock counts, valid order records). Wikipedia+2eGyanKosh+2
+•	Maintain data integrity and consistency — avoid duplication, ensure valid relationships (e.g. correct stock counts, valid order records). 
 
-•	Enable fast, accurate retrieval of useful information (sales reports, stock levels, customer behavior, supplier performance) via SQL queries. Scribd+1
+•	Enable fast, accurate retrieval of useful information (sales reports, stock levels, customer behavior, supplier performance) via SQL queries. 
 
-•	Automate inventory management and control — track stock levels, detect low stock or overstock, and simplify restocking decisions. Scribd+1
+•	Automate inventory management and control — track stock levels, detect low stock or overstock, and simplify restocking decisions. 
 
 •	Support data-driven decision-making to improve store operations, reduce errors/time, and scale as business grows.
 
