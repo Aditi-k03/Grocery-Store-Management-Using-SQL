@@ -1,5 +1,4 @@
-# <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/bcfefd35-a28c-4f3a-946d-13a571229155" />
-**Grocery-Store-Management-Using-SQL**
+# <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/bcfefd35-a28c-4f3a-946d-13a571229155" />**Grocery-Store-Management-Using-SQL**
 
 📌 **Problem Statement** 
 •	In the dynamic environment of a retail grocery store, managing and analyzing large volumes of data related to products, suppliers, customers, and orders is crucial for efficient operations and informed decision-making.
