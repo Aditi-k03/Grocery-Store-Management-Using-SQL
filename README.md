@@ -2,10 +2,10 @@
 
 📌 **Problem Statement** 
 
-•	In the dynamic environment of a retail grocery store, managing and analyzing large volumes of data related to products, suppliers, customers, and orders is crucial for efficient operations and informed decision-making.
+<p>•	In the dynamic environment of a retail grocery store, managing and analyzing large volumes of data related to products, suppliers, customers, and orders is crucial for efficient operations and informed decision-making.
 
 •	This project aims to design and implement a relational database system that captures essential store activities and enables users to retrieve and analyze data through SQL. 
-
+</p>
 🎯 **Objectives**
 
 •	Efficiently store and organize data for products, suppliers, customers, orders, inventory and sales.
