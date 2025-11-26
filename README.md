@@ -1,4 +1,4 @@
-<h1>              Grocery Store Management Using SQL </h1>
+<h1> <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/54149ce2-5709-456b-bc53-47ab989250fc" /> Grocery Store Management Using SQL </h1>
 
 <p>
 This project implements a relational database system for a retail grocery store. It captures detailed information about products, suppliers, customers, orders, and store operations. Through a well-designed schema and normalized tables, the database enables efficient storage and management of store data. 
@@ -50,5 +50,5 @@ With SQL queries you can quickly get insights on sales trends, stock levels, cus
 <h2>🔗 Connect with Me</h2>
 <ul>
   <li>📧 Email: aditi.khade99@gmail.com</li>
-  <li>💼 LinkedIn: <a href=" https://www.linkedin.com/in/aditi-khade-2a69bb274" target="_blank"> https://www.linkedin.com/in/aditi-khade-2a69bb274/</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aditi-khade-2a69bb274" target="_blank"> https://www.linkedin.com/in/aditi-khade-2a69bb274/</a></li>
 </ul>
