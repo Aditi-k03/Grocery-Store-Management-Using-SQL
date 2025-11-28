@@ -8,6 +8,8 @@ This project implements a relational database system for a retail grocery store.
 Using structured SQL queries, the system supports retrieval and analysis of sales, inventory, supplier performance, and customer behavior — helping store managers make data-driven business decisions. The aim is to transform raw transactional data into actionable insights for improved operations and strategic planning.
 </p>
 
+---
+
 <h2>📌 Problem Statement</h2>
 <p>
 In the dynamic environment of a retail grocery store, managing and analyzing large volumes of data related to products, suppliers, customers, and orders is crucial for efficient operations and informed decision-making.
@@ -21,6 +23,7 @@ In the dynamic environment of a retail grocery store, managing and analyzing lar
 <li>What is the relationship between quantity ordered and total price? </li>
 </ul>
 
+---
 
 <h2>🎯 Objectives</h2>
 <ul>
@@ -30,12 +33,16 @@ In the dynamic environment of a retail grocery store, managing and analyzing lar
   <li>Support data-driven decision-making to improve store operations, reduce errors/time, and scale as business grows.</li>
 </ul>
 
+---
+
 <h2>🧰 Technologies Used</h2>
 <ul>
   <li>MySQL</li>
   <li>SQL (Joins, CTEs, Window Functions)</li>
   <li>Data Import using <code>LOAD DATA INFILE</code></li>
 </ul>
+
+---
 
 <h2>📁 Project Structure</h2>
 <ul>
@@ -44,11 +51,15 @@ In the dynamic environment of a retail grocery store, managing and analyzing lar
   <li><strong>Execution Order:</strong> Carefully managed to maintain foreign key constraints</li>
 </ul>
 
+---
+
 <h2>✅ Conclusion</h2>
 <p>
   	This project shows how a relational database can cleanly and efficiently manage a grocery store’s data. By storing products, suppliers, customers, orders, inventory, and employees in structured, linked tables — data stays organized, consistent, and easy to query. 
 With SQL queries you can quickly get insights on sales trends, stock levels, customer behavior, and supplier or employee performance. These insights enable smarter decision-making, improved store efficiency and better overall performance.
 </p>
+
+---
 
 <h2>🔗 Connect with Me</h2>
 <ul>
