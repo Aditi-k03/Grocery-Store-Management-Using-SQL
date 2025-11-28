@@ -1,5 +1,5 @@
-<h1> <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/54149ce2-5709-456b-bc53-47ab989250fc" /> Grocery Store Management Using SQL </h1>
-
+<h1 align="center"><img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/54149ce2-5709-456b-bc53-47ab989250fc" /> Grocery Store Management Using SQL </h1>
+<p align="center"><i>An end-to-end solution to manage products, inventory levels, sales transactions, and business analytics — enabling efficient grocery store operations and data-driven decision making.</i></p>
 <p>
 This project implements a relational database system for a retail grocery store. It captures detailed information about products, suppliers, customers, orders, and store operations. Through a well-designed schema and normalized tables, the database enables efficient storage and management of store data. 
 Using structured SQL queries, the system supports retrieval and analysis of sales, inventory, supplier performance, and customer behavior — helping store managers make data-driven business decisions. The aim is to transform raw transactional data into actionable insights for improved operations and strategic planning.
